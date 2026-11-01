@@ -1,4 +1,4 @@
-## Hi there 👋
+Computer Science Student at QUEST | Aspiring Cybersecurity Professional | Cybersecurity Enthusiast
 
 <!--
 **AbdulNafay01/AbdulNafay01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
